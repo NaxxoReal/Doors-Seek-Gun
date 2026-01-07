@@ -1,4 +1,4 @@
-local Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Functions.lua"))()
+local Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/NaxxoReal/Doors-Seek-Gun/refs/heads/main/Functions.lua"))()
 local tweenService = game:GetService("TweenService")
 
 local player = game.Players.LocalPlayer
